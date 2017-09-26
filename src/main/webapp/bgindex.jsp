@@ -75,7 +75,7 @@
 				"menuid" : "41",
 				"menuname" : "查询题目",
 				"icon" : "icon-add",
-				"url" : "#"
+				"url" : "AdminSelectSub.jsp"
 			}, {
 				"menuid" : "42",
 				"menuname" : "新增题目",
